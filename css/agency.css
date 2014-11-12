@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #fed136;
+    color: #F76F0E;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -207,9 +207,9 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 400;
+    font-weight: 900;
     letter-spacing: 1px;
-    color: #fff;
+    color: #3F6A93;
 }
 
 .navbar-default .nav li a:hover,
@@ -262,8 +262,9 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
+	padding-top:163px;
     text-align: center;
-    color: #fff;
+    color: #FF6825;
     background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;
