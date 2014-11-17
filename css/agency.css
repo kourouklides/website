@@ -310,6 +310,8 @@ header .intro-text .intro-heading {
         font-style: italic;
         line-height: 40px;
         background-color: rgba(255, 189, 0, 0.69);
+        display: inline;
+    	float: center;
     }
 
     header .intro-text .intro-heading {
